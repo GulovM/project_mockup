@@ -5,4 +5,4 @@ touch source/1.scv source/2.csv
 touch queries/1.sql queries/2.sql
 git add --all
 git commit -m "Add files and folders"
-git push -u origin2 main #мой remote называется origin2
+git push -u origin2 master #мой remote называется origin2
